@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../MULTIPAGE"
+		},
+		{
+			"path": "E:/"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"liveServer.settings.multiRootWorkspaceName": "MULTIPAGE"
+	}
+}
